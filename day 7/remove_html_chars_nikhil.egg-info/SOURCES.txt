@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+module/__init__.py
+module/remove_html_chars.py
+remove_html_chars_nikhil.egg-info/PKG-INFO
+remove_html_chars_nikhil.egg-info/SOURCES.txt
+remove_html_chars_nikhil.egg-info/dependency_links.txt
+remove_html_chars_nikhil.egg-info/top_level.txt

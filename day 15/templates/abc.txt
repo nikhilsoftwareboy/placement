@@ -1,0 +1,10 @@
+{% for variable in range(3) %}
+{% endfor %}
+
+<head>
+    <title>My Page</title>
+
+    <link rel="stylesheet"
+    href="{{ url_for('static', filename='css/style.css')}}">
+</head>
+
